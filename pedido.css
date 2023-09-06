@@ -1,0 +1,54 @@
+body{
+    font-family: 'IM Fell French Canon', serif;
+    background-color:black ;
+    overflow:hidden;
+}   
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(93, 25, 138);
+}
+    
+.center {
+    display: flex;
+    margin: 0%;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.bnt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+button{
+    margin: 0 20px;
+    color: #000;  
+    background-color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 2rem;
+
+}
+img{
+    display: block;
+    background-image: url('https://i.pinimg.com/originals/16/c8/a6/16c8a62c6efe1cd86940455b35a75b67.jpg');
+    background-size: cover;
+    background-color: #ffffff;
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 300px;
+   width: 300px;
+   margin: 0%;
+   margin-bottom: 50px;
+   border-radius: 50%;
+}
+#não {
+    position: relative;
+    text-align: left;
+}
